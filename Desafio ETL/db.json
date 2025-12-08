@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Dev Weekerson",
+    "account": {
+      "number": "00001-1",
+      "agency": "0001"
+    },
+    "card": {
+      "number": "**** **** **** 1111",
+      "limit": 1000
+    },
+    "features": [],
+    "news": [
+      {
+        "icon": "\ud83d\udca1",
+        "description": "Ol\u00e1 Dev Weekerson, invista em renda fixa hoje!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Maria Python",
+    "account": {
+      "number": "00002-2",
+      "agency": "0001"
+    },
+    "card": {
+      "number": "**** **** **** 2222",
+      "limit": 2000
+    },
+    "features": [],
+    "news": [
+      {
+        "icon": "\ud83d\udca1",
+        "description": "Ol\u00e1 Maria Python, invista em renda fixa hoje!"
+      }
+    ]
+  }
+]
