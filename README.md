@@ -3,4 +3,5 @@ Projetos desenvolvidos durante o Bootcamp Santander
 
 ## Desafios de projeto!
 
-1. [Projeto 1](/Desafio%20ETL/README.md)
+- [Projeto ETL](/Desafio%20ETL/README.md)
+- [Projeto AWS](/Desafio%20AWS/Readme.md)
