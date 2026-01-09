@@ -1,4 +1,4 @@
-# RELATÃÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: [data de iní­cio do projeto]
 Empresa: Abstergo Industries 
@@ -29,7 +29,7 @@ Etapa 3:
 
 
 
-## ConclusÃ£o
+## Conclusão
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado a redução de custos com infraestrutura física, melhor aproveitamento dos recursos computacionais e maior previsibilidade financeira. Além disso, a adoção da AWS proporciona escalabilidade, segurança e flexibilidade, permitindo que a empresa cresça de forma sustentável e acompanhe o aumento do número de parceiros e clientes sem grandes investimentos iniciais.
 
 Recomenda-se a continuidade da utilização das ferramentas implementadas e a avaliação de novos serviços AWS, como monitoramento e automação, para aprimorar ainda mais os processos da empresa.
